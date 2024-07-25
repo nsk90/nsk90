@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 
+I love programming and doing it professionally sinse 2012. 
+I have been working with different languages and stacks, started with __C++__ then moved to __Java__ and __Kotlin__.
+Made different kind of apps like Linux console network servers, crossplatform desktop client-server apps, cryptographic libraries and Android fin-tech apps.
+I also worked with lowlevel hardware devices like relay boards and smard-cards.
+I have pretty much experience in libraries development, multithreading and application architecture.
+
+Currently I'm working as Android technical leader and maintaining my pet project [KStateMachine](https://github.com/KStateMachine/kstatemachine) trying to provide the best APIs and code usage experience.
 
 <!--
 **nsk90/nsk90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
