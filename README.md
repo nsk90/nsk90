@@ -1,6 +1,6 @@
 ### Hi there 👋 
 I love programming and doing it professionally sinse 2012. 
-I have been working with different languages and stacks, started with __C++__ then moved to __Java__ and __Kotlin__.
+I have been working with different languages and stacks, started with __C++__ along with __Boost__ and __Qt__ libraries then moved to __Java__ and __Kotlin__.
 Made different kind of apps like Linux console network servers, crossplatform desktop client-server apps, cryptographic libraries and Android fin-tech apps.
 I also worked with lowlevel hardware devices like relay boards and smard-cards.
 I have pretty much experience in libraries development, multithreading and application architecture.
