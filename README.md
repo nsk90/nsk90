@@ -5,7 +5,9 @@ Made different kind of apps like Linux console network TCP servers, crossplatfor
 I also worked with lowlevel hardware devices like relay boards and smart-cards, NFC and Bluetooth devices.
 I have pretty much experience in libraries development, multithreading and application architecture.
 
-Currently I'm working as Android technical leader and maintaining my pet project [KStateMachine](https://github.com/KStateMachine/kstatemachine) trying to provide the best APIs and code usage experience.
+- 🔭 I’m currently working as Android technical leader
+- 🦺 I’m maintaining my pet project [KStateMachine](https://github.com/KStateMachine/kstatemachine)
+- 🌱 I’m currently learning and interested in algorithmic trading with cryptocurrencies
 
 <!--
 **nsk90/nsk90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
