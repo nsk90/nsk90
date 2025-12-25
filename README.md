@@ -7,7 +7,7 @@ I have pretty much experience in libraries development, multithreading and appli
 
 - 🔭 I’m currently working as Android technical leader
 - 🦺 I’m maintaining my pet project [KStateMachine](https://github.com/KStateMachine/kstatemachine)
-- 🌱 I’m currently learning and interested in algorithmic trading with cryptocurrencies
+- 🌱 I’m currently learning and interested in algorithmic trading of cryptocurrencies
 
 <!--
 **nsk90/nsk90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
